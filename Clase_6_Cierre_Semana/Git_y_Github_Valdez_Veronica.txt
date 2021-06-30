@@ -1,2 +1,0 @@
-Git es una herramienta de versionado
------------------------------------
